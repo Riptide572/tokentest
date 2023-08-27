@@ -1,0 +1,32 @@
+{
+   "id": "pf2e-bestiaries",
+   "title": "Pathfinder Token Pack: Bestiaries",
+   "description": "<p>This all-in-one pack includes token artwork and portraits for every single creature in Pathfinder Second Edition's Bestiary 1, Bestiary 2, and Bestiary 3!</p> <p>The tokens are lovingly handmade to make full use of FoundryVTT's features, and are seamlessly inserted into your system compendiums.</p> <p>The pack ensures that no creature is left without a token by including unique custom artwork seen nowhere else!</p>",
+   "authors": [
+      {
+         "name": "ScootyPuffSt",
+         "discord": "TheWidowmaker#1516"
+       }
+  ],
+   "version": "1.0.6",
+   "compatibility": {
+   "minimum": "10",
+   "verified": "11"
+   },
+   "media": [
+      {
+          "type": "setup",
+          "caption": "Token Pack: Bestiaries",
+          "thumbnail": "/modules/pf2e-bestiaries/other/thumbnail.webp"
+      }],
+   "flags": {
+      "pf2e-bestiaries": {
+      "pf2e-art": "modules/pf2e-bestiaries/map-pf2e.json",
+      "archmage-art": "modules/pf2e-bestiaries/map-archmage.json",
+      "dnd5e-art": "modules/pf2e-bestiaries/map-dnd5e.json",
+      "dnd5e-art-credit": "<em>Creature Artwork from Pathfinder Second Edition.</em>",
+      "swade-art": "modules/pf2e-bestiaries/map-swpf.json",
+      "shadowdark-art": "modules/pf2e-bestiaries/map-shadowdark.json"
+   }},
+   "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/pf2e-bestiaries/module.json"
+}
