@@ -28,5 +28,5 @@
       "swade-art": "modules/pf2e-bestiaries/map-swpf.json",
       "shadowdark-art": "modules/pf2e-bestiaries/map-shadowdark.json"
    }},
-   "manifest": "https://foundryvtt.s3.us-west-2.amazonaws.com/modules/pf2e-bestiaries/module.json"
+   "manifest": "https://github.com/Riptide572/tokentest/blob/main/module.json"
 }
